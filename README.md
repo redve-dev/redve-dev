@@ -4,4 +4,4 @@
 🐧 Linux user<br>
 </p>
 
-don't get implied by rare contributions. Many of my projects are on selfhosted git server
+This profile is for open source contribution mostly. All of my project are on my selfhosted gitea instance.
